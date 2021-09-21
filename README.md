@@ -1,2 +1,0 @@
-# nestjs
-Nest Js Project
